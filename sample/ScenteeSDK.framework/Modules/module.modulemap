@@ -1,0 +1,6 @@
+framework module ScenteeSDK {
+  umbrella header "ScenteeSDK.h"
+
+  export *
+  module * { export * }
+}
